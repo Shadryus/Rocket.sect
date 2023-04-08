@@ -32,6 +32,11 @@ ul li a{
   line-height: 28px;
 }
 
+ul li a:hover{
+  color: #00BFA6;
+  font-weight: bold;
+}
+
 main{
   display: flex;
   justify-content: space-between;
